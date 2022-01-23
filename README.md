@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @samratgun
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+samratgun/samratgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Iam interested in cricket
+Iam currently looking for a job
+My mobile no. +918777529908
